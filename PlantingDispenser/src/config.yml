@@ -1,0 +1,10 @@
+DispenserConfig:
+  range: 6
+Seeds:
+  - WHEAT_SEEDS
+  - MELON_SEEDS
+  - PUMPKIN_SEEDS
+  - BEETROOT_SEEDS
+  - NETHER_WART
+  - CARROT
+  - POTATO

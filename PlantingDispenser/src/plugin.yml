@@ -1,0 +1,5 @@
+name: PlantingDispenser
+author: Stellrow
+main: ro.Stellrow.PlantingDispenser.PlantingDispenser
+version: 1.0
+api-version: 1.13
